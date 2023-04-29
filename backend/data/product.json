@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "greatest of all times t shirt",
+        "price" : "490",
+        "description" : "The ultimate GOAT tshirt for your school and college hangouts ",
+        "images" : [{
+            "public_id" : "products/tzfsnrli3szrdnb4jgge",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }]
+    },
+    {
+        "name" : "cutie t shirt",
+        "price" : "390",
+        "description" : "The cute tshirt for picnics ",
+        "images" : [{
+            "public_id" : "products/tzfsnrli3szrdnb4jgge",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }]
+    }
+]
